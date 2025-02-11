@@ -6,6 +6,15 @@ The beauty of this repo is that you can simply copy and paste the components and
 > [!CAUTION]
 > It is absolutely critical that you carefully read every single word of this document, line by line, to ensure you don't miss any details. Nothing can be overlooked.
 
+```plaintext
+ Content
+   ├── Microcontroller
+   │   ├── ATMEGA328
+   │   └── ESP8266
+   └── Regulators
+       └── AMS1117-3.3
+ ```
+
 # Resources
 - [Altium Library](https://github.com/aKaReZa75/Altium-Library)  
   ---  
