@@ -11,7 +11,7 @@ The beauty of this repo is that you can simply copy and paste the components and
    ├── Microcontroller
    │   ├── ATMEGA328
    │   └── ESP8266
-   └── Regulators
+   └── Regulator
        └── AMS1117-3.3
  ```
 
