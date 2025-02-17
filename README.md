@@ -7,18 +7,18 @@ The beauty of this repo is that you can simply copy and paste the components and
 > It is absolutely critical that you carefully read every single word of this document, line by line, to ensure you don't miss any details. Nothing can be overlooked.
 
 ```plaintext
- Content
+Content
    ├── Microcontroller
    │   ├── ATMEGA328
    │   └── ESP8266
    ├── Switch
-   │   ├── P-MOS
-   │   ├── P-MOS_NPN 
-   │   ├── Relay_NPN
-   │   └── Relay_Isolate_12V    
+   │   ├── P-MOS: A MOSFET switch for high-side switching.
+   │   ├── P-MOS_NPN: Uses an NPN transistor as a driver for the MOSFET
+   │   ├── Relay_NPN: An NPN transistor for controlling a relay.
+   │   └── Relay_Isolate_12V: A 12V relay driver with optocoupler isolation.
    └── Regulator
        └── AMS1117-3.3
- ```
+```
 
 # Resources
 - [Altium Library](https://github.com/aKaReZa75/Altium-Library)  
