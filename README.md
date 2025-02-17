@@ -11,6 +11,11 @@ The beauty of this repo is that you can simply copy and paste the components and
    ├── Microcontroller
    │   ├── ATMEGA328
    │   └── ESP8266
+   ├── Switch
+   │   ├── P-MOS
+   │   ├── P-MOS_NPN 
+   │   ├── Relay_NPN
+   │   └── Relay_Isolate_12V    
    └── Regulator
        └── AMS1117-3.3
  ```
