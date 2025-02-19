@@ -16,7 +16,7 @@ Content
    │   ├── P-MOS_NPN: Uses an NPN transistor as a driver for the MOSFET
    │   ├── Relay_NPN: An NPN transistor for controlling a relay.
    │   └── Relay_Isolate_12V: A 12V relay driver with optocoupler isolation.
-   └── Regulator
+   └── Supply
        └── AMS1117-3.3
 ```
 
