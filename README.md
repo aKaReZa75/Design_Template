@@ -2,7 +2,6 @@
 This repository contains a collection of pre-tested and ready-to-use schematics and Altium design files for various electronic projects. All designs have been thoroughly tested and optimized to work seamlessly in your projects.   
 The beauty of this repo is that you can simply copy and paste the components and circuits directly into your Altium project, and everything will be ready to function as expected.
 
-
 > [!CAUTION]
 > It is absolutely critical that you carefully read every single word of this document, line by line, to ensure you don't miss any details. Nothing can be overlooked.
 
@@ -21,6 +20,12 @@ Content
        ├── AMS1117-3.3
        └── AMS1117-adj
 ```
+
+> [!TIP]
+> If you're looking to better understand how to navigate and use my GitHub repositories — including exploring their structure, downloading or cloning projects, submitting issues, and asking questions 
+> everything you need is clearly explained in this video:  
+> [aKaReZa 95 - Programming, Git - PART B](https://youtu.be/zYiUItVFRqQ)   
+> Make sure to check it out!
 
 # Resources
 - [Altium Library](https://github.com/aKaReZa75/Altium-Library)  
