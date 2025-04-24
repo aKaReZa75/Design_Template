@@ -2,9 +2,6 @@
 This repository contains a collection of pre-tested and ready-to-use schematics and Altium design files for various electronic projects. All designs have been thoroughly tested and optimized to work seamlessly in your projects.   
 The beauty of this repo is that you can simply copy and paste the components and circuits directly into your Altium project, and everything will be ready to function as expected.
 
-> [!CAUTION]
-> It is absolutely critical that you carefully read every single word of this document, line by line, to ensure you don't miss any details. Nothing can be overlooked.
-
 ```plaintext
 Content
    ├── Microcontroller
@@ -39,7 +36,17 @@ Content
              alt="aKaReZa 95 - Programming, Git - PART B Thumbnail"/>
       </a>
     </td>
+
+  </td>
   </tr>
+  <tr>
+  <td colspan="2">
+
+  > [!CAUTION]
+  > It is absolutely critical that you carefully read every single word of this document, line by line, to ensure you don't miss any details. Nothing can be overlooked.
+      
+  </td>
+  </tr>  
 </table>
 
 # Resources
