@@ -4,6 +4,8 @@ The beauty of this repo is that you can simply copy and paste the components and
 
 ```plaintext
 Content
+   ├── GSM Modules
+   │   └── Quectel M66
    ├── Microcontroller
    │   ├── ATMEGA328
    │   └── ESP8266
